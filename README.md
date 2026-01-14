@@ -1,6 +1,3 @@
-# public/README.md
-# IA-RAG-CTF
-
 Ce dépôt contient un challenge CTF à exécuter localement.
 
 ## Prérequis
